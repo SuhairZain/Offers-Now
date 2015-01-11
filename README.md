@@ -1,5 +1,7 @@
 # Offers-Now
 
+![Splash Screen](https://raw.github.com/SuhairZain/Offers-Now/master/screenshots/splash.png)
+
 Requires API 10.2.1
 
 Running the example:
